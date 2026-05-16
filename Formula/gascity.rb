@@ -4,7 +4,7 @@
 class Gascity < Formula
   desc "Orchestration-builder SDK for multi-agent coding workflows"
   homepage "https://github.com/nagyv/gascity"
-  head "https://github.com/nagyv/gascity.git", branch: "main"
+  head "https://github.com/nagyv/gascity.git", branch: "v1.1.0+"
   license "MIT"
 
   depends_on "go" => :build
