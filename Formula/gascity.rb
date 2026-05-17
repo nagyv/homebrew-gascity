@@ -7,7 +7,7 @@ class Gascity < Formula
   head "https://github.com/nagyv/gascity.git", branch: "v1.1.0+"
   license "MIT"
 
-  depends_on "go" => :build
+  depends_on "go@1.25" => :build
 
   depends_on "beads"
   depends_on "jq"
