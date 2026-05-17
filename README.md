@@ -7,3 +7,9 @@ Homebrew tap for Gas City CLI - custom fork
 brew tap nagyv/gascity
 brew install nagyv/gascity/gascity
 ```
+
+## Upgrade
+
+```sh
+brew reinstall nagyv/gascity/gascity
+```
